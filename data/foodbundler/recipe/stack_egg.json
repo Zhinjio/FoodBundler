@@ -34,7 +34,7 @@
                 "color": "white"
             },
             "minecraft:consumable": {
-                "consume_seconds": 1,
+                "consume_seconds": 0,
                 "animation": "block",
                 "sound": "minecraft:item.bundle.drop_contents",
                 "has_consume_particles": false
