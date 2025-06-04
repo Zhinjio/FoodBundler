@@ -1,0 +1,25 @@
+{
+    "pack": {
+        "pack_format": 71,
+        "supported_formats": {
+            "min_inclusive": 71,
+            "max_inclusive": 71
+        },
+        "description": [
+            {
+                "text": "Food",
+                "color": "#169134"
+            },
+            {
+                "text": "Bundler",
+                "color": "#C72A44"
+            },
+                " v.1.0.0\ninspired by ",
+            {
+                "text": "Ketket\'s Stackraft",
+                "color": "#FFAA00",
+                "bold": true
+            } , "\nUpdated for 1.21.5"
+        ]
+    }
+}
